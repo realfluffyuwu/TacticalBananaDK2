@@ -2,10 +2,10 @@
 
 	<wp
 		type="THROW_GRENADE"
-		equipment="Fluffy Banana"
-		ui_prefix="data/textures/gui_ingame/waypoints/frag"
+		equipment="FluffyBanana"
+		ui_prefix="data/textures/gui_ingame/waypoints/banana"
 		ttip="Throw Banana!"
 		ttip_disabled="You can't Throw a Banana Here"
-		ttip_empty="Why did You throw It :("/>
+		ttip_empty="Why did You throw It :(" />
 
 </ActionWaypoints>

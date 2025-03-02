@@ -1,0 +1,9 @@
+<Entities>
+
+	<Entity name="FluffyBanana" type="Projectile" hideInEditor="true">
+		<PhysicalParams solid="false" />
+		<RenderObject3D model="data/models/equipment/Banana.khm" skipGOSSAO="true"
+			disableDecals="true" diffuseTex="data/models/equipment/Banana.dds" />
+	</Entity>
+
+</Entities>
